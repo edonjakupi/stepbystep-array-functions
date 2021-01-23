@@ -34,6 +34,7 @@ var pricesWithTax = withTax(prices)
 //pricesWithTax: [24, 131.4, 4.79, 359.99]
 */
 
+withTax();
 
 /*
 Task 2
